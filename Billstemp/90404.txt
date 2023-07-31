@@ -1,0 +1,32 @@
+	Welcome Aditya's Bakery Retail
+
+Bill Number :90404
+Customer Name: Anhad
+Phone Number :85856612347 
+*************************************
+Products		  Qty		Price
+*************************************
+Rusk     		  0	   Rs. 0
+Pies      		  2	   Rs. 624
+Pastries 		  6	   Rs. 270
+Bread		  0	   Rs. 0
+Cakes          	  0	   Rs. 0
+CupCakes & Muffins 0	   Rs. 0
+Small Cone		  0	   Rs. 0
+Small Cups  		  0	   Rs. 0
+Stick Icecreame Small  0	   Rs. 0
+Large Cone  		  8	   Rs. 1240
+Large Cups 	 	  7	   Rs. 1792
+Stick Icecream Large  0	   Rs. 0
+Maza		  0	   Rs. 0
+Fanta		  0	   Rs. 0
+Frooti		  0	   Rs. 0
+Thumbs Uo		  0	   Rs. 0
+Limca		  0	   Rs. 0
+Maza		  8	   Rs. 720
+-------------------------------------
+Cakes and Bread Tax  		   Rs. 44.7
+Icecreams Tax			   Rs. 60.64
+Soft Drink Tax			   Rs. 13.68
+-------------------------------------
+Total Bill			Rs. 4765.02
